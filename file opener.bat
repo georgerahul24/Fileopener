@@ -1,1 +1,1 @@
-python "D:\Github\fileopener\dat file opener.py" %*
+python "C:\Users\George Rahul\Desktop\Github\Fileopenergit\file opener.py" %*

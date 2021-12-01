@@ -6,7 +6,7 @@ import time
 from threading import Thread
 
 currenttime = None
-print("HI")
+
 
 def reload(path, mode):
     global currenttime
